@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931862081977",
+    "project_id": "p-pe-developer",
+    "storage_bucket": "p-pe-developer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931862081977:android:5a9caec903e366ea228668",
+        "android_client_info": {
+          "package_name": "com.ppe.ppedeveloper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931862081977-ef00sftj2pug9u1iaf1ona8uu7t1btom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0U_90HqS2hnbWuvIn57tS7aZDrhQzSK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931862081977-ef00sftj2pug9u1iaf1ona8uu7t1btom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
